@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\bin\Debug\Sells Comission.exe.config
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\bin\Debug\Sells Comission.exe
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\bin\Debug\Sells Comission.pdb
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells Comission.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells_Comission.comCalculator.resources
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells_Comission.Properties.Resources.resources
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells Comission.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells Comission.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells Comission.exe
+C:\Users\Manager\source\repos\Sells Comission\Sells Comission\obj\Debug\Sells Comission.pdb
